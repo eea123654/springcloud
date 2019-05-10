@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
         <module name="productdataservice" />
+        <module name="productviewservicefeign" />
       </profile>
     </annotationProcessing>
   </component>
